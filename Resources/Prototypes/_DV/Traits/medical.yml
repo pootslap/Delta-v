@@ -58,15 +58,15 @@
     components:
     - type: Uncloneable
 
-- type: trait
-  id: Unborgable
-  name: trait-unborgable-name
-  description: trait-unborgable-desc
-  category: Medical
-  effects:
-  - !type:AddCompsEffect
-    components:
-    - type: Unborgable
+#- type: trait
+#  id: Unborgable
+#  name: trait-unborgable-name
+#  description: trait-unborgable-desc
+#  category: Medical
+#  effects:
+#  - !type:AddCompsEffect
+#    components:
+#    - type: Unborgable
 
 - type: trait
   id: Redshirt
